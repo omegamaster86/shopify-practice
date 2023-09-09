@@ -188,8 +188,9 @@ aside li {
 
 .footer-menu {
   align-items: center;
+  justify-content: center;
   display: flex;
-  grid-gap: 1rem;
+  grid-gap: 2rem;
   padding: 1rem;
 }
 
